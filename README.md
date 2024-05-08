@@ -9,7 +9,6 @@ Este é um sistema de apostas online desenvolvido em C# para permitir aos usuár
 ## Funcionalidades
 
 - **Cadastro de Usuários**: Os usuários podem se cadastrar no sistema para acessar as funcionalidades de apostas.
-- **Gerenciamento de Eventos Esportivos**: Os administradores podem adicionar, editar e excluir eventos esportivos disponíveis para apostas.
 - **Realização de Apostas**: Os usuários podem visualizar os eventos disponíveis e realizar apostas em diferentes mercados.
 - **Processamento de Apostas**: O sistema calcula automaticamente os resultados das apostas com base nos eventos esportivos e mercados selecionados.
 - **Histórico de Apostas**: Os usuários podem visualizar um histórico detalhado de suas apostas anteriores e resultados.
@@ -19,7 +18,7 @@ Este é um sistema de apostas online desenvolvido em C# para permitir aos usuár
 - **C#**: Linguagem de programação utilizada para desenvolver a lógica do sistema.
 - **ASP.NET Core**: Framework utilizado para desenvolver a aplicação web.
 - **Entity Framework Core**: ORM (Object-Relational Mapper) utilizado para mapear objetos .NET para bancos de dados relacionais.
-- **SQL Server**: Banco de dados relacional utilizado para armazenar dados do sistema.
+- **PostegreSQL**: Banco de dados relacional utilizado para armazenar dados do sistema.
 - **HTML/CSS**: Utilizados para desenvolver a interface do usuário.
 - **Bootstrap**: Framework de front-end utilizado para facilitar o desenvolvimento de interfaces responsivas.
 - **JavaScript**: Utilizado para adicionar interatividade à interface do usuário.
@@ -62,10 +61,5 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
 4. Faça push para a branch (`git push origin feature/nova-funcionalidade`).
 5. Crie um novo Pull Request.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
----
-
-Sinta-se à vontade para personalizar este README de acordo com as necessidades específicas do seu projeto!
+## Colaboradores
+    - Werbeth Pereira Veras
